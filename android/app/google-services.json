@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491675894600",
+    "project_id": "driverpart1-388c5",
+    "storage_bucket": "driverpart1-388c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491675894600:android:13973a6d2bb5837a69e97d",
+        "android_client_info": {
+          "package_name": "com.example.ahmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0t6XYP1nf3Nr-ntMCRcRxjRpJtn9x1o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
